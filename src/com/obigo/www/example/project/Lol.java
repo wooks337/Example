@@ -8,6 +8,7 @@ public class Lol {
 				System.out.print("*");
 				System.out.println("몰라");
 				System.out.println("dksjfdlkjsdlk");
+				System.out.println("dklsjfdl");
 			}
 		}
 
