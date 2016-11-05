@@ -1,4 +1,4 @@
-package com.obigo.www.example.project;
+﻿package com.obigo.www.example.project;
 
 public class Lol {
 	public static void main(String[] args) {
@@ -6,6 +6,7 @@ public class Lol {
 		for (int i = 0; i < 5; i++) {
 			for (int j = 0; j < i; j++) {
 				System.out.print("*");
+				System.out.println("몰라");
 			}
 		}
 
